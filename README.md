@@ -1,0 +1,2 @@
+# Teditore
+Terminal Text Editor
